@@ -1,4 +1,10 @@
 # analiza-statyczna
-## Język programowania C
-### Kompilator Clang
+
+## Kompilator Clang
+
+### Przykład 1
+
+Plik [ex1.c](ex1.c)
+
+
 
