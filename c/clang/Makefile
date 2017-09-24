@@ -1,6 +1,6 @@
 CC=clang
 CFLAGS=-Wall --pedantic -std=c11
-LDFLAGS=-lm
+LDFLAGS=
 
 PROGS=ex1 ex2 ex3
 
