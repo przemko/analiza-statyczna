@@ -5,7 +5,6 @@ int main(void)
   char x[] = "napis";
   int n = strlen (x);
   char *p = malloc(n);
-  strcpy (p, x);
+  strcpy(p, x);
   return 0;
 }
-
