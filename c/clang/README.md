@@ -22,4 +22,4 @@ Tylko analiza statyczna wykryła błąd polegający na niezainicjowaniu zmiennej
 
 Plik [ex3.c](ex3.c)
 
-Tylko analiza statyczna wykryła błąd polegający na zarezerwowaniu zbyt małego obszaru pamięci (nie ma miejsca na znak ```\0``` kończący łańcuch znaków).
+Tylko analiza statyczna wykryła błąd polegający na zarezerwowaniu zbyt małego obszaru pamięci (nie ma miejsca na znak ```'\0'``` kończący łańcuch znaków).
