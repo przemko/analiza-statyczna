@@ -14,7 +14,7 @@ Zarówno kompilacja jak i analiza statyczna wykryły błąd polegający na nieza
 
 ### Przykład 2
 
-Plik [ex2.c](ex3.c)
+Plik [ex2.c](ex2.c)
 
 Tylko analiza statyczna wykryła błąd polegający na niezainicjowaniu zmiennej ```x```.
 
